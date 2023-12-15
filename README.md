@@ -1,4 +1,4 @@
-# dougdoug-alphabet-crew Extension
+# dougdoug-alphabet-crew Extension (BETA)
 
 ## Description
 This extension sets Twitch chat usernames as 'A Crew' or 'Z Crew'. Usernames starting with letters A-M are labeled 'A Crew', while the rest, including those starting with numbers or symbols, are labeled 'Z Crew'.
