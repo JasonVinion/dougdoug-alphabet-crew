@@ -39,4 +39,4 @@ MIT
 Jason V
 
 ## Version
-1.0
+1.5.0
