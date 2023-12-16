@@ -3,7 +3,7 @@
 ## Description
 This extension sets Twitch chat usernames as 'A Crew' or 'Z Crew'. Usernames starting with letters A-M are labeled 'A Crew', while the rest, including those starting with numbers or symbols, are labeled 'Z Crew'.
 
-## See how it works:
+## See how it works in this video:
 
 [![Video Of Extention](https://img.youtube.com/vi/Vb_Pk-sOh04/0.jpg)](https://youtu.be/Vb_Pk-sOh04)
 
