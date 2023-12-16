@@ -21,7 +21,11 @@ Work in progress
 Work in progress
 
 ## Usage
-Once installed, the extension automatically modifies usernames in Twitch chat. Usernames starting with letters A-M will be displayed as 'A Crew', and all others, including those starting with numbers or symbols, will be displayed as 'Z Crew'.
+Once installed, it provides three modes to modify usernames in Twitch chat:
+
+1. **Normal Name Mode**: Displays the original usernames without any modification.
+2. **Icon Mode**: Appends a specific crew icon next to the username based on its first letter. Usernames starting with letters A-M get the 'A Crew' icon, while the rest, including those starting with numbers or symbols, get the 'Z Crew' icon.
+3. **Name Change Mode**: Similar to the previous version, usernames starting with letters A-M are displayed as 'A Crew', and all others as 'Z Crew'.
 
 ## Important Notes
 - The extension is currently designed for Firefox and has been tested on Twitch.
